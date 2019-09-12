@@ -1,0 +1,25 @@
+{
+  "name": "hello-node-from-jenkins",
+  "version": "1.0.0",
+  "description": "Sample to run from Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anikm1987/docker-nodejs-jenkins.git"
+  },
+  "keywords": [
+    "devops"
+  ],
+  "author": "Aniket Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anikm1987/docker-nodejs-jenkins/issues"
+  },
+  "homepage": "https://github.com/anikm1987/docker-nodejs-jenkins#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
